@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.u.nottingham.ac.uk	TRUE	/	FALSE	1999999999	__cf_bm	hzYE1UOuol4oNBNcFacC4wS.Ta_PXKFf4VjUx.98vZM-1666875877-0-AXd1g+zUI+J9Bgz3HLoVEkKSKIj1YHT56jjerGElfrpnPhxXjeszi5FryuWAnIXcNjWTgxsQ5ZiNxuOJzTIkD9o=
+u.nottingham.ac.uk	TRUE	/	FALSE	1999999999	__cflb	0H28vbka3Tp63XFuYsqHHrawjcNu2NcgVLbkQCJnZ6k
+u.nottingham.ac.uk	TRUE	/	FALSE	1999999999	SameSite	Lax
+
